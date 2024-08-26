@@ -1,3 +1,12 @@
+<p align="center">
+  <a>
+    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif" width="1920" height="400">
+  </a>
+</p>
+
+<h1 align="center">Hi 👋, I'm Mohammed Hafeez</h1>
+<h3 align="center">A passionate Software engineer from Egypt <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+
 # 💫 About Me:
 🔭 I’m currently working on Flutter apps<br>🤝 I’m looking for help with Flutter<br>🌱 I’m currently learning Flutter <br>💬 Ask me about Flutter , android 
 

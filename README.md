@@ -4,10 +4,9 @@
   </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Mohammed Hafeez</h1>
-<h3 align="center">A passionate Software engineer from Egypt <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+<h1 align="center">Hi 👋, I'm Mohammed Amer</h1>
+<h3 align="center">A passionate Flutter developer from Egypt <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
-# 💫 About Me:
 🔭 I’m currently working on Flutter apps<br>🤝 I’m looking for help with Flutter<br>🌱 I’m currently learning Flutter <br>💬 Ask me about Flutter , android 
 
 
